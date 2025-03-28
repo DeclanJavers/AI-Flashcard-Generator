@@ -14,7 +14,7 @@ A command-line tool that automatically generates study flashcards from your text
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/flashcardmaker.git
+   git clone https://github.com/declanjavers/flashcardmaker.git
    cd flashcardmaker
    ```
 
